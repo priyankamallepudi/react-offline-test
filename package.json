@@ -5,8 +5,10 @@
     "start": "webpack-dev-server --hot --progress"
   },
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "react-google-charts": "^4.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.22.7",
